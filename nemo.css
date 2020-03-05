@@ -116,7 +116,7 @@ h3{
 
 /* Showcase */
 #showcase{
-  min-height: 550px;
+  min-height: 450px;
   background: url('../images/grand.jpg') no-repeat 0 -280px;
   filter: greyscale(100%);
   /* text-align: center; */
